@@ -14,3 +14,10 @@ Here, WebSpeech API is used which is absolutely free of cost. But with the limit
 [The Screenshot above is the UI of the Text to Speech Web Application]
 
 Web App Link - https://client-tau-wine.vercel.app/
+
+## Level (Basic)
+### ✨ Features
+- Text Input
+- Voice Selection
+- Generate Speech
+- Audio Playback
