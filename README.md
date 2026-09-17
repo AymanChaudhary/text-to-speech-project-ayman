@@ -12,3 +12,5 @@ Here, WebSpeech API is used which is absolutely free of cost. But with the limit
 <img width="1837" height="871" alt="image" src="https://github.com/user-attachments/assets/d5b76916-aaf1-44b0-b528-a4842d53d384" />
 
 [The Screenshot above is the UI of the Text to Speech Web Application]
+
+Web App Link - https://client-tau-wine.vercel.app/
