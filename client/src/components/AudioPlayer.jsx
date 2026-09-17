@@ -88,7 +88,7 @@ const AudioPlayer = ({ text, voice, onDownload }) => {
             const language = voice ? voice.lang.split('-')[0] : 'en';
 
             // Call backend API to generate audio
-            const response = await fetch('https://text-to-speech-project-ayman.onrender.com/api/tts/download', {
+            const response = await fetch('http://localhost:5173/api/tts/download', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
